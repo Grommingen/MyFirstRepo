@@ -1,2 +1,2 @@
 Get-Service
-Write-output $psversontable
+Write-output $psversiontable
